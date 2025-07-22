@@ -46,3 +46,13 @@ python mlm_metric.py \
     --input_file [crows_pairs_dataset] \
     --lm_model [mlm_name] \
     --output_file [output_filename]
+```
+
+### 🪪 License
+This dataset is released under the Creative Commons Zero v1.0 Universal license (CC0 1.0).
+You are free to use, modify, and distribute it without restriction.
+
+### 📚 Reference
+If you use Dutch-CrowS-Pairs, please cite our paper:
+
+Elza Strazda, Gerasimos Spanakis. Dutch CrowS-Pairs: Adapting a Challenge Dataset for Measuring Social Biases in Language Models for Dutch. In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), Varna, Bulgaria.
