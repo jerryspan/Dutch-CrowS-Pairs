@@ -12,8 +12,8 @@ This repository contains materials for the paper:
 Located in the `datasets/` folder.
 
 Includes versions of the CrowS-Pairs dataset in:
-- **English**
-- **French**
+- **English** (from [here](https://github.com/nyu-mll/crows-pairs))
+- **French** (from [here](https://gitlab.inria.fr/french-crows-pairs))
 - **Dutch** (newly created)
 
 Each version contains **1,463 sentence pairs** covering **9 bias categories**:
