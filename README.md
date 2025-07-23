@@ -55,4 +55,4 @@ You are free to use, modify, and distribute it without restriction.
 ### 📚 Reference
 If you use Dutch-CrowS-Pairs, please cite our paper:
 
-Elza Strazda, Gerasimos Spanakis. Dutch CrowS-Pairs: Adapting a Challenge Dataset for Measuring Social Biases in Language Models for Dutch. In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), Varna, Bulgaria.
+Elza Strazda, Gerasimos Spanakis. Dutch CrowS-Pairs: Adapting a Challenge Dataset for Measuring Social Biases in Language Models for Dutch. In Proceedings of the 15th International Conference on Recent Advances in Natural Language Processing (RANLP 2025), Varna, Bulgaria. [Pre-print here](https://arxiv.org/abs/2507.16442)
